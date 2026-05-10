@@ -1,0 +1,15 @@
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/bin/Debug/net8.0/ProductAPI.Application.deps.json
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/bin/Debug/net8.0/ProductAPI.Application.dll
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/bin/Debug/net8.0/ProductAPI.Application.pdb
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/bin/Debug/net8.0/ProductAPI.Core.dll
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/bin/Debug/net8.0/ProductAPI.Core.pdb
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.csproj.AssemblyReference.cache
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.AssemblyInfoInputs.cache
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.AssemblyInfo.cs
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.csproj.CoreCompileInputs.cache
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductA.93279703.Up2Date
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.dll
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/refint/ProductAPI.Application.dll
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ProductAPI.Application.pdb
+/Users/chandler.keyes/Personal/ProductAPI/ProductAPI.Application/obj/Debug/net8.0/ref/ProductAPI.Application.dll
